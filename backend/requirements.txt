@@ -1,0 +1,12 @@
+fastapi>=0.110
+uvicorn[standard]>=0.27
+python-multipart>=0.0.9
+pydantic>=2.6
+Pillow>=10.0
+torch>=2.2
+torchvision>=0.17
+transformers>=4.40
+rembg>=2.0.56
+onnxruntime>=1.17
+pytest>=8.0
+httpx>=0.27
